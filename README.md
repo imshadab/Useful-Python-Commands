@@ -1,4 +1,4 @@
-# Useful Commands For Data Science
+# Useful Python Commands For Data Science
 
 It contains all the useful commands that you can use to sail through your daily life in data science
 
