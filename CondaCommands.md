@@ -23,7 +23,7 @@ directory where you want to keep your project and create a virtual environment.
 
 > C:\Users\username\AppData\Local\Continuum\anaconda2\envs\yourenvname
 
-*Here username is your computer's username*
+__Here username is your computer's username__
 
 The python file executable file is located in the same directory. There are two executable pythons:-
 1. pythonw.exe
