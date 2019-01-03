@@ -12,7 +12,7 @@
 
 ### 4. Create a virtual environment for your project
 
-conda create -n yourenvname python=x.x.x anaconda
+> conda create -n yourenvname python=x.x.x anaconda
 
 Here you need to replace yourenvname with the name that you want to keep for your environment and x.x.x with the python version
 you want to install, It will ask for your permission to download executable python and create other directories which you can 
